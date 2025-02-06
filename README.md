@@ -1,6 +1,7 @@
 # audio_spectrogram_transformer_mindnlp
 audio_spectrogram_transformer模型解读
-相关论文解读知乎文章地址：
+
+基于mindnlp的论文解读知乎文章地址：https://zhuanlan.zhihu.com/p/21532242322
 原github仓地址：https://github.com/YuanGongND/ast
 
 # 使用注意：
